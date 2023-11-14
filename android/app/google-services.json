@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257350771854",
+    "firebase_url": "https://uperclone-2b497-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uperclone-2b497",
+    "storage_bucket": "uperclone-2b497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257350771854:android:f6ce491385837af4a6d5df",
+        "android_client_info": {
+          "package_name": "com.example.drivres_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257350771854-ohunqhq92pbdih478sfrn6i00vuvf8de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc41mVv_78s4uKORafWHW-4W5_M02vU0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257350771854-ohunqhq92pbdih478sfrn6i00vuvf8de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
